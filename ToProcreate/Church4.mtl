@@ -1,7 +1,27 @@
 # Blender 4.1.1 MTL File: 'Church4.blend'
 # www.blender.org
 
-newmtl Material
+newmtl BigCross
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl ChurchMaterial
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/batni/Documents/NYU/Spring 2024/Thesis/Modeling-Pomegranates/Textures/ChurchMain/PNGS/ChurchMainTEST2.png
+
+newmtl DoorMaterial
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800482 0.744185 0.719978
@@ -11,12 +31,12 @@ Ni 1.500000
 d 1.000000
 illum 2
 
-newmtl Standard_FFE1C1
-Ns 200.000000
+newmtl LittleCross
+Ns 250.000000
 Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
-Ni 1.450000
+Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/Users/batni/Documents/NYU/Spring 2024/Thesis/Modeling-Pomegranates/Textures/ChurchMain/PNGS/ChurchMainTEST2.png
